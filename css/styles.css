@@ -72,7 +72,7 @@ body{
     display: none;
 }
 .navbar-list a:last-child{
-    color:FAA171 ;
+    color:blue ;
 }
 /* .navbar-list a:first-child{
     color: pink;
